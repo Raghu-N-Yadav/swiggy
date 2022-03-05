@@ -1,0 +1,130 @@
+[
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lihhat10emz0wipaev5c",
+        "title": "Dice N Dine",
+        "body": "American, Asian, Chinese, Continental, Desserts, Italian, Jain, Mexican",
+        "time": "34",
+        "rating": "4.0",
+        "cost": "500"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/odnumkswp7xjd79kzpmy",
+        "title": "Burger King",
+        "body": "American, Fast Food",
+        "time": "32",
+        "rating": "4.1",
+        "cost": "400"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yc0asfa2j9elggstyjg4",
+        "title": "Madeena Hotel",
+        "body": "Biryani, Mughlai, Indian, Beverages",
+        "time": "31",
+        "rating": "4.3",
+        "cost": "300"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mtfco4meitoh97jynjxd",
+        "title": "Leon Grill",
+        "body": "American, Arabian, Asian, Turkish, Portuguese",
+        "time": "35",
+        "rating": "4.2",
+        "cost": "200"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hj0by11k5rr2ryhl81lt",
+        "title": "Chicking",
+        "body": "American, Arabian, Asian, Turkish, Portuguese",
+        "time": "28",
+        "rating": "3.2",
+        "cost": "290"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ycqqb0u9zx5cszgwn4bq",
+        "title": "Onesta",
+        "body": "American, Arabian, Asian, Turkish, Portuguese",
+        "time": "20",
+        "rating": "4.2",
+        "cost": "400"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gqbbdwvrs1kzwftvbrp0",
+        "title": "Sinful Dessert",
+        "body": "Biryani, Mughlai, Indian, Beverages",
+        "time": "40",
+        "rating": "4.3",
+        "cost": "450"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bnjz5aqntegphkslpg4l",
+        "title": "Rotti Walla",
+        "body": "American, Arabian, Asian, Turkish, Portuguese",
+        "time": "29",
+        "rating": "4.7",
+        "cost": "200"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zy1rqff7pmqwsbucltd7",
+        "title": "Briyani Trip",
+        "body": "Chinese, Continental, Desserts, Italian, Jain",
+        "time": "32",
+        "rating": "4.6",
+        "cost": "280"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ahvxah9qdtouklavjyaq",
+        "title": "Fresh Bites",
+        "body": "Chinese, Continental, Desserts, Italian, Jain",
+        "time": "35",
+        "rating": "4.1",
+        "cost": "350"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yyeotyfezh8sig4hfrkk",
+        "title": "Pizza Hut",
+        "body": "Chinese, Continental, Desserts, Italian, Jain",
+        "time": "31",
+        "rating": "4.7",
+        "cost": "250"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rxzhywfw8ishbnqdgpfu",
+        "title": "Ice Cream",
+        "body": "Chinese, Continental, Desserts, Italian, Jain",
+        "time": "32",
+        "rating": "3.1",
+        "cost": "200"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/q0bqqz9lpedssula6lsb",
+        "title": "McDonald's",
+        "body": "Chinese, Continental, Desserts, Italian, Jain",
+        "time": "15",
+        "rating": "4.9",
+        "cost": "480"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/teg1rujhfwroaoig95qs",
+        "title": "AL-BEK",
+        "body": "Chinese, Continental",
+        "time": "22",
+        "rating": "4.0",
+        "cost": "450"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tnq3ltee3hc77snyndfd",
+        "title": "Paratha Envy",
+        "body": "Biryani, Mughlai, Indian",
+        "time": "35",
+        "rating": "3.9",
+        "cost": "250"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/voa82azf9tf1lhbom83c",
+        "title": "7 Plates",
+        "body": "Mughlai, Indian, Jain",
+        "time": "31",
+        "rating": "4.3",
+        "cost": "350"
+    }
+]
