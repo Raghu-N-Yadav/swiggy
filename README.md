@@ -1,5 +1,5 @@
 # See it live 
-> https://vercel.com/dashboard
+> https://swiggy-peach.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
