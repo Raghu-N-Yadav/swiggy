@@ -1,4 +1,4 @@
-import { MAKE_LOGIN, MAKE_SIGNUP, SORT_DATA, ITEM_DATA, COUNT_DATA, RESET_CART } from "../Contants";
+import { MAKE_SIGNUP, SORT_DATA, ITEM_DATA, COUNT_DATA, RESET_CART } from "../Contants";
 
 export const createLogin = (data) => {
     return {

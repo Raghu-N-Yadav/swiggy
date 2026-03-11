@@ -2,7 +2,7 @@ import { connect } from "react-redux";
 
 import Restaurants from "../Components/Restaurants";
 
-import { createLogin, sortingData } from "../Services/action";
+import { sortingData } from "../Services/action";
 
 const mapStateToProps = state => ({
     sortData: state

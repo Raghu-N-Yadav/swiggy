@@ -9,7 +9,8 @@ import mug from '../img/swiggy.gif'
 export default function Restaurants(props) {
     const { location } = useParams()
     const [wait, setWait] = useState(true)
-    const [foodArr, setFoodarr] = useState(data)
+    const [foodArr, setFoodarr] = useState('data')
+    setFoodarr(data)
     // console.log(props.sortData.SwiggyReducer.signupData[0].name)
     const waitFunc = () => {
         setTimeout(() => {

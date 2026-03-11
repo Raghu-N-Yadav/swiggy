@@ -21,7 +21,7 @@ export default function Items(props) {
                     <div>₹{obj.cost}</div>
                 </div>
                 <div className="col-1 border-bottom">
-                    <img src={obj.image} width="136" className="rounded" alt="photo" />
+                    <img src={obj.image} width="136" className="rounded" alt="AN apple" />
                     <button
                         onClick={() => {
                             const match = props.itemData.SwiggyReducer.itemData.find(item => item.title === obj.title)

@@ -2,7 +2,7 @@ import { connect } from "react-redux";
 
 import Items from "../Components/Items";
 
-import { createLogin, createItem, createCount } from "../Services/action";
+import {createItem, createCount } from "../Services/action";
 
 const mapStateToProps = state => ({
     itemData: state
