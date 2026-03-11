@@ -265,7 +265,7 @@ export default class Home extends Component {
                             <div className="headImage flex-grow-1" >
                                 {/* <img style={{ height: "570", width: "100%" }} src={headImage} alt="pic" /> */}
                                 <img
-                                    src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Dinner4-new_glri3x"
+                                    src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Sushi_replace.png"
                                     height="570px" width="100%"
                                     alt="swiggy main"
                                 />
@@ -283,21 +283,21 @@ export default class Home extends Component {
                                 <div className="row justify-content-center">
                                     <div className="col text-wrap">
                                         <div className="mb-5">
-                                            <img height="188" width="124" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_210,h_398/4x_-_No_min_order_x0bxuf" alt="bike" />
+                                            <img height="188" width="124" src="https://www.swiggy.com/corporate/wp-content/uploads/2024/10/management-member-08.webp" alt="bike" />
                                         </div>
                                         <div className="text-white fs-4">No Minimum Order</div>
                                         <div className="text-white fw-lighter mt-2">Order in for yourself or for the group, with no restrictions on order value</div>
                                     </div>
                                     <div className="col text-wrap">
                                         <div className="mb-5">
-                                            <img height="188" width="124" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_224,h_412/4x_Live_order_zzotwy" alt="bike" />
+                                            <img height="188" width="124" src="https://www.swiggy.com/corporate/wp-content/uploads/2024/10/management-member-01.webp" alt="bike" />
                                         </div>
                                         <div className="text-white fs-4">Live Order Tracking</div>
                                         <div className="text-white fw-lighter mt-2">Know where your order is at all times, from the restaurant to your doorstep</div>
                                     </div>
                                     <div className="col text-wrap">
                                         <div className="mb-5">
-                                            <img height="188" width="124" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_248,h_376/4x_-_Super_fast_delivery_awv7sn" alt="bike" />
+                                            <img height="188" width="124" src="https://www.swiggy.com/corporate/wp-content/uploads/2024/10/management-member-02.webp" alt="bike" />
                                         </div>
                                         <div className="text-white fs-4">Lightning-Fast Delivery</div>
                                         <div className="text-white fw-lighter mt-2">Experience Swiggy's superfast delivery for food delivered fresh and on time</div>
@@ -315,13 +315,13 @@ export default class Home extends Component {
                                 <p className=" fs-4 text-muted mt-3">Order from your favorite restaurants and track <br />on the go, with the all-new Swiggy app.</p>
                             </div>
                             <div className="mt-5">
-                                <img className="me-3" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/play_ip0jfp" height="54" alt="playstore" />
-                                <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/iOS_ajgrty" height="54" alt="playstore" />
+                                <img className="me-3" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv" height="54" alt="playstore" />
+                                <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-GooglePlay_1_zixjxl" height="54" alt="playstore" />
                             </div>
                         </div>
                         <div>
-                            <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_768,h_978/pixel_wbdy4n" height="489" width="384" alt="mob" />
-                            <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_768,h_978/iPhone_wgconp_j0d1fn" height="489" width="384" alt="mob" />
+                            {/* <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv" height="489" width="384" alt="mob" />
+                            <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-GooglePlay_1_zixjxl" height="489" width="384" alt="mob" /> */}
                         </div>
                     </div>
 
@@ -363,8 +363,8 @@ export default class Home extends Component {
                                     </ul>
                                 </div>
                                 <div className="col">
-                                    <img className="mb-5" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/play_ip0jfp" height="54" alt="playstore" />
-                                    <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/iOS_ajgrty" height="54" alt="playstore" />
+                                    <img className="mb-5" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv" height="54" alt="playstore" />
+                                    <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-GooglePlay_1_zixjxl" height="54" alt="playstore" />
 
                                 </div>
                             </div>
@@ -373,22 +373,22 @@ export default class Home extends Component {
                             <div className="row">
                                 <div className="col">
                                     <a href="/">
-                                        <img width="142" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_284/Logo_f5xzza" alt="logo" />
+                                        <img width="142" src="https://www.swiggy.com/corporate/wp-content/uploads/2024/10/swiggy-logo.webp" alt="logo" />
                                     </a>
                                 </div>
                                 <div className="col fs-5">© 2022 Swiggy</div>
                                 <div className="col d-flex gap-4">
                                     <a href="https://www.facebook.com/swiggy.in" target="_blank" rel="noreferrer">
-                                        <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-facebook_tfqsuc" alt="fb" />
+                                        <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/Twitter.svg" alt="fb" />
                                     </a>
                                     <a href="https://pinterest.com/swiggyindia" target="_blank" rel="noreferrer">
-                                        <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-pinterest_kmz2wd" alt="fb" />
+                                        <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/icon-instagram.svg" alt="fb" />
                                     </a>
                                     <a href="https://instagram.com/swiggyindia/" target="_blank" rel="noreferrer">
-                                        <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-instagram_b7nubh" alt="fb" />
+                                        <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/icon-facebook.svg" alt="fb" />
                                     </a>
                                     <a href="https://twitter.com/swiggy_in" target="_blank" rel="noreferrer">
-                                        <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-twitter_gtq8dv" alt="fb" />
+                                        <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/icon-pinterest.svg" alt="fb" />
                                     </a>
                                 </div>
                             </div>

@@ -640,8 +640,8 @@ export default function Restaurants(props) {
                             </ul>
                         </div>
                         <div className="col">
-                            <img className="mb-5" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/play_ip0jfp" height="54" alt="playstore" />
-                            <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/iOS_ajgrty" height="54" alt="playstore" />
+                            <img className="mb-5" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv" height="54" alt="playstore" />
+                            <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-GooglePlay_1_zixjxl" height="54" alt="playstore" />
 
                         </div>
                     </div>
@@ -650,22 +650,22 @@ export default function Restaurants(props) {
                     <div className="row">
                         <div className="col">
                             <a href="/">
-                                <img width="142" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_284/Logo_f5xzza" alt="logo" />
+                                <img width="142" src="https://www.swiggy.com/corporate/wp-content/uploads/2024/10/swiggy-logo.webp" alt="logo" />
                             </a>
                         </div>
                         <div className="col fs-5">© 2022 Swiggy</div>
                         <div className="col d-flex gap-4">
                             <a href="https://www.facebook.com/swiggy.in" target="_blank" rel="noreferrer">
-                                <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-facebook_tfqsuc" alt="fb" />
+                                <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/Twitter.svg" alt="fb" />
                             </a>
                             <a href="https://pinterest.com/swiggyindia" target="_blank" rel="noreferrer">
-                                <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-pinterest_kmz2wd" alt="fb" />
+                                <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/icon-instagram.svg" alt="fb" />
                             </a>
                             <a href="https://instagram.com/swiggyindia/" target="_blank" rel="noreferrer">
-                                <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-instagram_b7nubh" alt="fb" />
+                                <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/icon-facebook.svg" alt="fb" />
                             </a>
                             <a href="https://twitter.com/swiggy_in" target="_blank" rel="noreferrer">
-                                <img width="24" height="24" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-twitter_gtq8dv" alt="fb" />
+                                <img width="24" height="24" src="https://media-assets.swiggy.com/portal/testing/seo-home/icon-pinterest.svg" alt="fb" />
                             </a>
                         </div>
                     </div>
