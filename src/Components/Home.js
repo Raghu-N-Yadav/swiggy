@@ -133,7 +133,7 @@ export default class Home extends Component {
                                     <div className="logo">
                                         {/* <img src={swiggyLogo} alt="swiggylogo" /> */}
                                         <img
-                                            src="https://d2sj89osparb2a.cloudfront.net/images/media/swiggy-cashback-coupons.png"
+                                            src="https://media-assets.swiggy.com/portal/testing/seo-home/Group.svg"
                                             alt="logo"
                                             height="80px"
                                         />
