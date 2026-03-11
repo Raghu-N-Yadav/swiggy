@@ -136,7 +136,7 @@ export default function Items(props) {
                 <div className="container">
                     <div className="row">
                         <div className="col-3">
-                            <img src={image} alt="photo" height="165" width="254" />
+                            <img src={image} alt="banner img" height="165" width="254" />
                         </div>
                         <div className="col-6">
                             <div className="text-white fs-3">{title}</div>
@@ -222,7 +222,7 @@ export default function Items(props) {
                             </ul>
                         </div>
                         <div className="col">
-                            <img className="mb-5" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv" height="54" alt="playstore" />
+                            <img className="mb-5" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv" height="54" alt="playstore-app" />
                             <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-GooglePlay_1_zixjxl" height="54" alt="playstore" />
 
                         </div>
